@@ -1,6 +1,6 @@
 ## 🌟 ¡Hola! Soy Raúl Llinares Somé 👋
 
-📚 **Estudiante de 1º de DAM** | 💻 **Apasionado por la programación y el desarrollo web**
+📚 **Estudiante de 2º de DAM** | 💻 **Apasionado por la programación y el desarrollo web**
 
 ---
 
